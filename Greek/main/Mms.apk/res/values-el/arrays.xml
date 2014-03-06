@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 φορά</item>
+        <item>2 φορές</item>
+        <item>3 φορές</item>
+        <item>5 φορές</item>
+        <item>10 φορές</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Όνομα</item>
+        <item>Ψευδώνυμο</item>
+        <item>Τηλέφωνο</item>
+        <item>E-mail</item>
+        <item>Εταιρία</item>
+        <item>IM</item>
+        <item>VoIP</item>
+        <item>Γενέθλια</item>
+        <item>Ιστοσελίδα</item>
+        <item>Διεύθυνση</item>
+        <item>Σημειώσεις</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 δευτ.</item>
+        <item>2 δευτ.</item>
+        <item>3 δευτ.</item>
+        <item>4 δευτ.</item>
+        <item>5 δευτ.</item>
+        <item>6 δευτ.</item>
+        <item>7 δευτ.</item>
+        <item>8 δευτ.</item>
+        <item>9 δευτ.</item>
+        <item>10 δευτ.</item>
+        <item>Άλλο...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Πάντα</item>
+        <item>Πότε χωρίς ήχο</item>
+        <item>Ποτέ</item>
+    </string-array>	
+    <string-array name="entries_date_type">	
+        <item>Ώρα λήψης</item>	
+        <item>Ώρα αποστολής (μπορεί να μην είναι ακριβής)</item>	
+    </string-array>
+</resources>

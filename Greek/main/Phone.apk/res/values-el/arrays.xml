@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / CDMA</item>
+        <item>Μόνο EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Αυτόματα CDMA / EvDo</item>
+        <item>Αύτοματα GSM / WCDMA</item>
+        <item>Μόνο WCDMA</item>
+        <item>Μόνο GSM</item>
+        <item>Προτίμηση GSM / WCDMA</item>
+    </string-array>
+     <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Κανονικός</item>
+        <item>Μακρύς</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Πάντα</item>
+        <item>Μόνο κατά τη σίγαση</item>
+        <item>Ποτέ</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (αυτόματα)</item>
+        <item>Μόνο WCDMA</item>
+        <item>Μόνο GSM</item>
+        <item>GSM/WCDA (προτίμηση WCDMA)</item>
+    </string-array>
+</resources>
